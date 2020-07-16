@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DCCN
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ip
+comment2.target=char\ FindClass(java.lang.String)
+numComments=3

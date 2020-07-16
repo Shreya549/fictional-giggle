@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=
+comment1.target=void\ adminpanel()
+comment2.params=num_books\ isbn\ name\ details\ isAvailable\ isTaken
+comment2.target=void\ Add(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment3.params=num_books
+comment3.target=void\ CheckAvailability(int)
+comment4.params=num_books
+comment4.target=void\ ViewBooks(int)
+comment5.params=num_books
+comment5.target=void\ DeleteBooks(int)
+comment6.params=num_students\ regno
+comment6.target=void\ Add(int,\ java.lang.String)
+comment7.params=num_students
+comment7.target=void\ ViewStudents(int)
+comment8.params=num_students
+comment8.target=void\ DeleteStudents(int)
+numComments=9

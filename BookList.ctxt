@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BookList
+comment1.params=
+comment1.target=BookList()
+comment2.params=isbn\ name\ details\ isAvailable\ isTaken
+comment2.target=BookList(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean)
+comment3.params=
+comment3.target=void\ loadBooks()
+comment4.params=regnum\ isbn_num
+comment4.target=void\ issueBook(java.lang.String,\ java.lang.String)
+comment5.params=regnum
+comment5.target=void\ returnBook(java.lang.String)
+comment6.params=regnum\ isbn_num
+comment6.target=void\ addWaitingBook(java.lang.String,\ java.lang.String)
+numComments=7
