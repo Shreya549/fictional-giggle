@@ -5,4 +5,3 @@ class BooksSerializer(serializers.ModelSerializer):
     class Meta:
         model = Books
         fields = '__all__'
-        read_only_fields = ('owner')
