@@ -11,10 +11,15 @@
 ```
 $ git clone https://github.com/Shreya549/fictional-giggle
 $ cd fictional-giggle
+$ javac Login.java
+$ java Login
 ```
 #### Tech Stack :nerd_face:
-[![DOCS](http://img.shields.io/badge/database-mysql-blue.svg?logo=MYSQL&logoColor=white)](https://github.com/Shreya549/CricketWorldCupDB/blob/master/project.sql)
+[![DOCS](http://img.shields.io/badge/java-black.svg?logo=Java)](https://github.com/Shreya549/fictional-giggle)
 
+#### Contributors
+  <a href="https://github.com/Shreya549">Shreya Chatterjee</a>
+  
 #### License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 <br>
