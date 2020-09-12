@@ -11,7 +11,7 @@
 ```
 $ git clone https://github.com/Shreya549/fictional-giggle
 $ cd fictional-giggle
-$ javac Login.java
+$ javac Manager.java
 $ java Login
 ```
 #### Tech Stack :nerd_face:
