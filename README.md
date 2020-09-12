@@ -12,7 +12,7 @@
 $ git clone https://github.com/Shreya549/fictional-giggle
 $ cd fictional-giggle
 $ javac Manager.java
-$ java Login
+$ java Manager
 ```
 #### Tech Stack :nerd_face:
 [![DOCS](http://img.shields.io/badge/java-black.svg?logo=Java)](https://github.com/Shreya549/fictional-giggle)
