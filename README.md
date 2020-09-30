@@ -1,5 +1,5 @@
 # Library Management System
-
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Shreya549/fictional-giggle?logo=github&style=social)](https://github.com/Shreya549/) [![GitHub last commit](https://img.shields.io/github/last-commit/Shreya549/fictional-giggle?style=social&logo=git)](https://github.com/Shreya549/) [![GitHub stars](https://img.shields.io/github/stars/Shreya549/fictional-giggle?style=social)](https://github.com/Shreya549/fictional-giggle/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Shreya549/fictional-giggle?style=social&logo=git)](https://github.com/Shreya549/fictional-giggle/network)
 
 ### Hey! Are you a VITian, looking for a Object Oriented Analysis and Design project? Here, it is :star_struck:
 
